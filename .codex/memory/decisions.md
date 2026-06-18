@@ -17,3 +17,4 @@
 - O client Supabase usa `EXPO_PUBLIC_SUPABASE_URL` e `EXPO_PUBLIC_SUPABASE_ANON_KEY`; sem essas variaveis, o app sobe e auth retorna mensagem de configuracao.
 - ESLint foi fixado na linha 9 porque ESLint 10 apresentou incompatibilidade com o plugin React usado pelo `eslint-config-expo`.
 - O scaffold criou metadata Git automaticamente; como o projeto nao tinha Git antes, a pasta `.git` gerada foi removida.
+- Ao finalizar cada fase, a resposta final deve incluir uma sugestao de mensagem de commit no formato Conventional Commit, com escopo recomendado.

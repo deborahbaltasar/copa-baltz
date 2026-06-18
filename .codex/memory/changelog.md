@@ -23,6 +23,7 @@
 - Criadas telas de login, cadastro, home e perfil.
 - Criados temas por pais e metadados iniciais de ilustracao.
 - Configurados ESLint, Prettier e scripts de typecheck/lint.
+- Adicionada regra para sugerir commit Conventional Commit com escopo ao finalizar cada fase.
 
 ### Not Changed
 
